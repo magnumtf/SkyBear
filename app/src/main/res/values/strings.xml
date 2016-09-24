@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">SkyBear</string>
+
+    <string name="initial_text">SkyBear!</string>
+    <string name="search">Start Vag, I mean Map!</string>
+    <string name="animate">Run Route Like the Dick Ends!</string>
+    <string name="home_text">42.65868, -70.62126</string>
+</resources>
